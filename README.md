@@ -6,7 +6,7 @@
 - :email: [halfaro1@github.com](mailto:halfaro1@github.com)
 
 ### Before We Begin
-- Sign up for an account on [github.com](github.com)
+- Sign up for an account on [github.com](http://github.com)
 - Navigate to this repository: [https://github.com/githubteacher/intro-hector-demo/](https://github.com/githubteacher/intro-hector-demo/)
 
 ### Talk To Us! :speech_balloon:
