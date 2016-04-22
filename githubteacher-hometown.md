@@ -1,6 +1,6 @@
 # Orlando, FL 
 - Weather is ☀️ and 🔥!
-- Best time to visit: Fall 🍃 
+- Best time to visit: Fall 🍃 the weather tends to be cool.
 - Stay away from: Summer, Spring Breaks
 
 ### Things to Do
@@ -10,3 +10,4 @@
 
 ### Places to Eat
 - Pharmacy (local insider!)
+- Rocco's Tacos
